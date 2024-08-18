@@ -25,7 +25,7 @@
 
 App available for `Linux` and `Windows` ,
 
-### Vist ***[Download page](https://github.com/iamovi/Chat_Guys/releases/latest)*** to download app.
+### Vist ***[Download page](https://github.com/iamovi/Chat_Guys/releases/latest)***  to download app.
 
 
 ## ✔ License
