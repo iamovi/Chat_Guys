@@ -26,9 +26,9 @@
 
 ## ✌ Download App
 
-App available for Linux and Windows,
+App available for `Linux` and `Windows` ,
 
-Vist [Download page](https://github.com/iamovi/chatguys/releases/latest) to download app.
+Vist [Download page](https://github.com/iamovi/Chat_Guys/releases/latest) to download app.
 
 ## ✔ License
 
@@ -37,6 +37,8 @@ Vist [Download page](https://github.com/iamovi/chatguys/releases/latest) to down
 ## 👽 Author Info
 
 **[Maruf Ovi](https://oviportfo.netlify.app/)**
+
+**Assistant:** **[Tahsin](https://tahsinportfo.netlify.app/)**
 
 ***fornet.ovi@gmail.com***
 
