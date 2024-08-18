@@ -4,10 +4,13 @@
 
 **ChatGuys** is a real-time chat app. Chat with anyone who is using ChatGuys.
 
+
 # Website/
 <img src="./assets/android-chrome-192x192.png">
 
+
 ### ChatGuys are ***[https://chatguys.onrender.com](https://chatguys.onrender.com)***  here.
+
 
 ## 🌸 Features
 
@@ -17,12 +20,6 @@
 - Message History
 - Responsive Design
 
-## 👾 Tech Stack
-
-- **Node.js** & **Socket.IO** for real-time communication
-- **MongoDB** for data storage
-- **Express.js** for the server
-- **HTML/CSS** & **JavaScript** for the frontend
 
 ## ✌ Download App
 
@@ -30,9 +27,11 @@ App available for `Linux` and `Windows` ,
 
 Vist [Download page](https://github.com/iamovi/Chat_Guys/releases/latest) to download app.
 
+
 ## ✔ License
 
 This project is licensed under a Proprietary License. See the [LICENSE](./LICENSE) file for more details.
+
 
 ## 👽 Author Info
 
@@ -43,5 +42,6 @@ This project is licensed under a Proprietary License. See the [LICENSE](./LICENS
 ***fornet.ovi@gmail.com***
 
 ---
+
 
 #### ChatChat with **ChatGuys**! 💬
