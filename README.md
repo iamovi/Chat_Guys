@@ -32,7 +32,7 @@ Vist [Download page](https://github.com/iamovi/Chat_Guys/releases/latest) to dow
 
 ## ✔ License
 
-[MIT LICENSE](LICENSE)
+This project is licensed under a Proprietary License. See the [LICENSE](./LICENSE) file for more details.
 
 ## 👽 Author Info
 
