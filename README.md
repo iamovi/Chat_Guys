@@ -37,7 +37,7 @@ This project is licensed under a Proprietary License. See the [LICENSE](./LICENS
 
 **[Maruf Ovi](https://oviportfo.netlify.app/)**
 
-**Assistant:** **[Tahsin](https://tahsinportfo.netlify.app/)**
+**Moderator:** **[Tahsin](https://tahsinportfo.netlify.app/)**
 
 ***fornet.ovi@gmail.com***
 
