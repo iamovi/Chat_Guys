@@ -21,13 +21,6 @@
 - Responsive Design
 
 
-## ✌ Download App
-
-App available for `Linux` and `Windows` ,
-
-### Vist ***[Download page](https://github.com/iamovi/Chat_Guys/releases/latest)***  to download app.
-
-
 ## ✔ License
 
 This project is licensed under a Proprietary License. See the [LICENSE](./LICENSE) file for more details.
