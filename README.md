@@ -32,7 +32,7 @@ This project is licensed under a Proprietary License. See the [LICENSE](./LICENS
 
 ***fornet.ovi@gmail.com***
 
-**Chat Moderator:**
+**Chat Moderators:**
 
  1. [Tahsin](https://tahsinportfo.netlify.app/)
 
