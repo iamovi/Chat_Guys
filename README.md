@@ -30,9 +30,13 @@ This project is licensed under a Proprietary License. See the [LICENSE](./LICENS
 
 **[Maruf Ovi](https://oviportfo.netlify.app/)**
 
-**Chat Moderator:** **[Tahsin](https://tahsinportfo.netlify.app/)**
-
 ***fornet.ovi@gmail.com***
+
+**Chat Moderator:**
+
+ 1. [Tahsin](https://tahsinportfo.netlify.app/)
+
+2. ...
 
 ---
 
