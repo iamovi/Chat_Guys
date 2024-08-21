@@ -15,10 +15,10 @@
 ## 🌸 Features
 
 - Real-Time Messaging
-- Voice Message 
+- Send Voice Messages
 - Send Images
-- Message History
-- Responsive Design
+- Chat History
+- ChatGuys Bot
 
 
 ## ✔ License
