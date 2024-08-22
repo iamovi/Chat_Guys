@@ -19,6 +19,7 @@
 - Send Images
 - Chat History
 - ChatGuys Bot
+- Intregeted with Gemini AI
 
 
 ## ✔ License
