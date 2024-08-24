@@ -20,6 +20,7 @@
 - Chat History
 - ChatGuys Bot
 - Intregeted with Gemini AI
+- Also ChatGuys PrivateRoom (for private chatting)
 
 
 ## ✔ License
